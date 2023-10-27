@@ -9,7 +9,7 @@ import sqlite3
 
 ##############################################################################################
 # Telegram bot
-bot = telegram.Bot(token=config.telegram_api)
+bot = telegram.Bot(token="6741570217:AAFD5qq_oLoLyO_bnDqjqTkeAoPwx5MDGMg")
 
 
 def bot_users():
